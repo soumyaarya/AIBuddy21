@@ -1,6 +1,8 @@
 # AIBuddy
 
-A simple **ChatGPT clone** built using the **MERN stack (MongoDB, Express.js, React, Node.js)**. This project uses the **OpenAI API** to allow human-like conversations, just like the real ChatGPT.
+AIBuddy is a full-stack AI chat assistant web application powered by OpenAI.  
+Built with **React**, **Node.js**, **Express**, and **MongoDB**.  
+Features secure authentication (JWT, Google login), persistent chat history, and a friendly UI.
 
 ---
 
@@ -14,7 +16,6 @@ A simple **ChatGPT clone** built using the **MERN stack (MongoDB, Express.js, Re
 * Auto-save chat
 * Delete account option
 * Light & Dark modes
-* Works offline (PWA)
 * Mobile responsive design
 
 ---
