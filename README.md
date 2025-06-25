@@ -95,7 +95,7 @@ git clone (https://github.com/soumyaarya/AIBuddy21)
 ### 2. Start the Backend
 
 ```bash
-cd AIBuddy/server
+cd AIBuddy21/server
 npm install
 npm start
 ```
@@ -105,7 +105,7 @@ npm start
 ### 3. Start the Frontend
 
 ```bash
-cd AIBuddy/client
+cd AIBuddy21/client
 npm install
 npm run dev
 ```
