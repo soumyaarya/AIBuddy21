@@ -95,7 +95,7 @@ git clone (https://github.com/soumyaarya/AIBuddy)
 ### 2. Start the Backend
 
 ```bash
-cd ChatGPT/server
+cd AIBuddy/server
 npm install
 npm start
 ```
@@ -105,7 +105,7 @@ npm start
 ### 3. Start the Frontend
 
 ```bash
-cd ChatGPT/client
+cd AIBuddy/client
 npm install
 npm run dev
 ```
