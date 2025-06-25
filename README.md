@@ -1,6 +1,6 @@
-# AIBuddy
+# AIBuddy21
 
-AIBuddy is a full-stack AI chat assistant web application powered by OpenAI.  
+AIBuddy21 is a full-stack AI chat assistant web application powered by OpenAI.  
 Built with **React**, **Node.js**, **Express**, and **MongoDB**.  
 Features secure authentication (JWT, Google login), persistent chat history, and a friendly UI.
 
@@ -87,7 +87,7 @@ VITE_CLIENT_ID=your_google_oauth_client_id
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ansonbenny/ChatGPT.git
+git clone (https://github.com/soumyaarya/AIBuddy)
 ```
 
 ---
@@ -95,7 +95,7 @@ git clone https://github.com/ansonbenny/ChatGPT.git
 ### 2. Start the Backend
 
 ```bash
-cd ChatGPT/server
+cd AIBuddy/server
 npm install
 npm start
 ```
@@ -105,7 +105,7 @@ npm start
 ### 3. Start the Frontend
 
 ```bash
-cd ChatGPT/client
+cd AIBuddy/client
 npm install
 npm run dev
 ```
