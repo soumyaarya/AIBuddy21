@@ -9,7 +9,7 @@ const New = memo(() => {
   return (
     <div className='New'>
       <div>
-        <h1 className='title currentColor'>AIBuddy</h1>
+        <h1 className='title currentColor'>AIBuddy21</h1>
       </div>
 
       <div className="flex">
