@@ -263,7 +263,7 @@ const InputArea = ({ status, chatRef, stateAction }) => {
           target="_blank"
           href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
         >
-          AIBuddy Mar 14 Version.
+          AIBuddy21 Mar 14 Version.
         </a>{" "}
         Free Research Preview. Our goal is to make AI systems more natural and
         safe to interact with. Your feedback will help us improve.
