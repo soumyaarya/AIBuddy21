@@ -87,7 +87,7 @@ VITE_CLIENT_ID=your_google_oauth_client_id
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ansonbenny/ChatGPT.git
+git clone (https://github.com/soumyaarya/AIBuddy)
 ```
 
 ---
