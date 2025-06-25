@@ -1,6 +1,6 @@
-# AIBuddy
+# AIBuddy21
 
-AIBuddy is a full-stack AI chat assistant web application powered by OpenAI.  
+AIBuddy21 is a full-stack AI chat assistant web application powered by OpenAI.  
 Built with **React**, **Node.js**, **Express**, and **MongoDB**.  
 Features secure authentication (JWT, Google login), persistent chat history, and a friendly UI.
 
