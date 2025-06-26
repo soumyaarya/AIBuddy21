@@ -7,7 +7,7 @@ const Loading = () => {
         <div data-for='Loading'>
             <div className="inner">
                 <GptIcon />
-                <div data-for="text">Please stand by, while we are checking your browser...</div>
+                <div data-for="text">Please wait, while we are checking your browser...</div>
             </div>
         </div>
     )
