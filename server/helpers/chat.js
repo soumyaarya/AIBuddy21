@@ -2,6 +2,7 @@ import { db } from "../db/connection.js";
 import collections from "../db/collections.js";
 import { ObjectId } from "mongodb";
 
+
 export default {
     newResponse: (prompt, { openai }, userId) => {
         return new Promise(async (resolve, reject) => {
