@@ -31,7 +31,7 @@ app.get('/*',(req,res)=>{
 connectDB((err) => {
     if (err) return console.log("MongoDB Connect Failed : ", err)
 
-    console.log("MongoDB Connected")
+    console.log("MongoDB Connected successfully")
 
     app.listen(port, () => {
         console.log("server started")
